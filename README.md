@@ -75,3 +75,15 @@ Serão avaliados os seguintes pontos:
 1. Crie um fork deste repositório.
 2. Implemente a solução.
 3. Faça commits frequentes e claros.
+
+  ## Login
+ <img width="948" height="1024" alt="Captura de tela 2025-07-29 155047" src="https://github.com/user-attachments/assets/84be5491-41d5-4874-bacb-878475114fe3" />
+
+ ##posts
+<img width="935" height="1029" alt="Captura de tela 2025-07-29 155124" src="https://github.com/user-attachments/assets/91729c22-485e-4012-8635-8a07fc927f14" />
+
+## Pesquisa
+<img width="950" height="446" alt="Captura de tela 2025-07-29 155211" src="https://github.com/user-attachments/assets/b65374cb-d41e-4c13-b5e0-2b99a4d59212" />
+
+
+
