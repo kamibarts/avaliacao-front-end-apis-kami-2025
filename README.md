@@ -85,5 +85,9 @@ Serão avaliados os seguintes pontos:
 ## Pesquisa
 <img width="950" height="446" alt="Captura de tela 2025-07-29 155211" src="https://github.com/user-attachments/assets/b65374cb-d41e-4c13-b5e0-2b99a4d59212" />
 
+## Informações do post
+<img width="946" height="448" alt="image" src="https://github.com/user-attachments/assets/872aaac2-18be-4e7c-bd01-34442756194d" />
+
+
 
 
